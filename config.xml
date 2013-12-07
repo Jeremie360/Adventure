@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id = "com.simple_game"
+        versionCode="10"
+        version = "1.0.0">
+        <gap:platform name="android" />
+        
+    
+
+    <name>Simple Game</name>
+
+    <description>
+	This is a text-base adventure game app.
+    </description>
+        
+        <icon src="Skull-Grim-Reaper-Wallpaper.jpg"/>
+
+    <author email="adajbull@iupui.edu">
+        Adam Bullock
+    </author>
+
+</widget>
